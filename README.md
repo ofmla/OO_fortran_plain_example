@@ -1,4 +1,4 @@
-# Fortran OOP Plain Example: Abstract Types and Deferred Procedures
+# Fortran OOP Plain Example: Abstract Types and Deferred bindings
 
 This repository provides a simple example demonstrating object-oriented programming (OOP) concepts in Fortran, specifically focusing on **abstract types** and **deferred bindings**. It also includes 
 the equivalent implementation in Python for comparison.
